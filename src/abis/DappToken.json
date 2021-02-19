@@ -4964,6 +4964,12 @@
       "links": {},
       "address": "0x38C614d0fe55cD4Cb49E6CA746A769A5fd545FE0",
       "transactionHash": "0x22ec54f765b67be4c7bbe3896105c542118a6a4fa8f323d8b6f78f1f68901941"
+    },
+    "42": {
+      "events": {},
+      "links": {},
+      "address": "0x6cff1e5844b154f43980671c24c669292f0eea33",
+      "transactionHash": "0x4b1b5e42bd20d40673b64b83746a1b04c194fbe06f49e7c392de2aba78cfcb78"
     }
   },
   "schemaVersion": "3.2.3",
